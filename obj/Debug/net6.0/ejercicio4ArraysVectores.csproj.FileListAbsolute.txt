@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\bin\Debug\net6.0\ejercicio4ArraysVectores.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\bin\Debug\net6.0\ejercicio4ArraysVectores.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\bin\Debug\net6.0\ejercicio4ArraysVectores.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\bin\Debug\net6.0\ejercicio4ArraysVectores.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\bin\Debug\net6.0\ejercicio4ArraysVectores.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\refint\ejercicio4ArraysVectores.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ejercicio4ArraysVectores.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4ArraysVectores\obj\Debug\net6.0\ref\ejercicio4ArraysVectores.dll
