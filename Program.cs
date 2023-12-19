@@ -8,17 +8,24 @@ class Program
         Console.WriteLine("Escriba eltamaño del vector ");
         numeroUsu = Convert.ToInt32(Console.ReadLine());
     
-        double[] matriz = new double[numeroUsu];
+        double[] vector = new double[numeroUsu];
        
 
         Random numero = new Random();
 
-        for (int i = 0; i < matriz.Length; i++)
+        for (int i = 0; i < vector.Length; i++)
         {
-            matriz[i] = numero.Next();
-
-            Console.WriteLine(matriz[i]);
+            vector[i] = numero.Next(50);
+           
         }
-        
+        Array.Sort(vector);
+
+        for (int i = 0; i < vector.Length; i++)
+        {
+            Console.WriteLine(vector[i]);
+
+        }
+
+
     }
 }
